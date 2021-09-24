@@ -1,0 +1,15 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "//Markdown Lenguaje de marcado, solo escribir documentacion",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
